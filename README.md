@@ -15,5 +15,6 @@ How to get started:
 2)Install my library for Squareline Studio
   -Download my libray by cloning or as zip
   -Save the library to a folder
+  -Rename the folder to your desired board name (i.e. Waveshare Touch_LCD)
   
 
