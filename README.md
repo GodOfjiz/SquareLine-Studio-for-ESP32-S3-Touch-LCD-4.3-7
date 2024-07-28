@@ -10,4 +10,9 @@ Feel Free to Download and Use the library
 Note: After Exporting, I would suggest to rename __ui_project_name__ to your desired project name
 
 How to get started:
+1)Install ESP_IDF:
+  -Install ESP_IDF by following "https://www.waveshare.com/wiki/ESP32-S3-Touch-LCD-4.3"
+2)Install my library for Squareline Studio
+  -Download my libray by cloning or as zip
+  
 
