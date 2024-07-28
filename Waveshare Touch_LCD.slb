@@ -12,6 +12,7 @@
     "offset_x": 0,
     "offset_y": 0,
     "rotation": 0,
+    "shape": "rectangle",
     "color_depth": "16",
     "lvgl_export_path": "",
     "lvgl_include_path": "lvgl.h",
