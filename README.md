@@ -12,9 +12,19 @@ Note: After Exporting, I would suggest to rename __ui_project_name__ to your des
 How to get started:
 1)Install ESP_IDF:
   -Install ESP_IDF by following "https://www.waveshare.com/wiki/ESP32-S3-Touch-LCD-4.3"
+
 2)Install my library for Squareline Studio
   -Download my libray by cloning or as zip
-  -Save the library to a folder
-  -Rename folder to the name of the board that you desire (i.e. Waveshare Touch_LCD)
-  
+  -Rename folder to the name of the board that you desire (e.g. Waveshare Touch_LCD)
+  -Go to the folder where the boards for SquareLine stores
+    Windows: C:\Users\USERNAME\Documents\SquareLine\boards
+    Linux:~/SquareLine/boards
+    MacOS: Users\USERNAME\SquareLine\boards
+  -After that, open SquareLine Studio and the board should be there under Espressif
+Note: You can leave it as default or change the variable of the board description in SquareLine Studio at by editing the .slb file
+      group: Espressif                 // Where the board is stored
+For more info go to "https://docs.squareline.io/docs/obp/"
+
+  3)Change your partition for export in ESP-IDF
+    
 
