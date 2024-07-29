@@ -37,6 +37,11 @@ How to get started:
 Reason for Recommendation:       The default setting flash for ESP-IDF is 1 MB. However, this is easily used up or have not enough flash memory if you have 1 image assets in your code.      
                                  Currently the partition is set to 6M, you can increase to a maximum of 0x7F0000 in partition.csv file
 
+References:
+      
+      Example Code: https://www.waveshare.com/wiki/ESP32-S3-Touch-LCD-4.3
+      Board Configulation for ESP-IDF: https://www.espressif.com/en/news/SquareLine_Studio
+      
 
       
     
