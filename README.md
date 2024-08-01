@@ -43,6 +43,7 @@ References:
       Board Configulation for ESP-IDF: https://www.espressif.com/en/news/SquareLine_Studio
       
 
-      
+Additional Stuff:
+Fonts provided by Squareline Studio can be enabled in sdkconfig (E.g. # CONFIG_LV_FONT_MONTSERRAT_30 is not set -> CONFIG_LV_FONT_MONTSERRAT_30=y)
     
 
